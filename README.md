@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 - 👋 Hi, I’m Sergey
-- 👀 Frontend
+- 👀 Frontend/Backend
 - 🌱 Software Engineer | Coherent Solutions
-- 🔭 I’m currently working on Remix.run
+- 🔭 I’m currently working on Remix.run/Next.js/Node
 - 📫 s.zhechko@icloud.com
